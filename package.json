@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-toastplugin",
+  "name": "com.gkrath.cordova.plugin",
   "version": "0.0.1",
   "description": "An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
   "cordova": {
-    "id": "cordova-plugin-toastplugin",
+    "id": "com.gkrath.cordova.plugin",
     "platforms": [
       "android"
     ]
